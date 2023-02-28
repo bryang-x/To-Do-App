@@ -13,7 +13,7 @@
   }
   button:hover {
     cursor: pointer;
-    background-color: rgb(225, 225, 25);
+    background-color: rgb(245, 222, 105);
   }
   ul {
     list-style-type: none; /* get rid of bullet points on side of list items */
@@ -45,7 +45,7 @@
     font-size: 1rem;
   }
   .add-button {
-    background-color: #fcfcfc;
+    background-color: #f5de69;
     color: #434343;
     border: none;
     outline: none;
@@ -61,7 +61,7 @@
   /* each li with class="item" */
   .item {
     background-color: #efefef
-    padding: 10px;
+    padding: 15px;
     font-size: 1.1rem;
   }
   .item:first-child {
